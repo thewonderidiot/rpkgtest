@@ -1,6 +1,6 @@
-extern mod test;
+extern mod rpkgtest;
 
 
 fn main() {
-    test::asdf();
+    rpkgtest::asdf();
 }
